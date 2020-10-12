@@ -1,0 +1,6 @@
+{
+  "values": [
+    "example:load",
+    "example_dep:load"
+  ]
+}
