@@ -1,5 +1,7 @@
 # Global Metadata Convention
 
+This document is meant to extend and complement the conventions outlined by the [Minecraft Datapacks](https://mc-datapacks.github.io/en/) conventions group.
+
 ## About 
 
 While most datapacks are fairly self-contained, it's not uncommon to need to work with information about other loaded packs such as libraries. These conventions are designed to help assist with that issue, and provide purpose-built methods for cross-pack interactions between packs that implement them.
